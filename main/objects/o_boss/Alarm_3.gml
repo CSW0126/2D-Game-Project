@@ -1,0 +1,1 @@
+/// @description fire interval
