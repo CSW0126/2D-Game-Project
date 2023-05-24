@@ -4,12 +4,15 @@
  [Link](Doc.pdf)
 
 ## Some Screenshots
+<br>
 Room 1
 <br>
 <img src="Img/rm1.jpg">
+<br>
 Room 2
 <br>
 <img src="Img/rm2.jpg">
+<br>
 Room 3
 <br>
 <img src="Img/rm3.jpg">
@@ -32,5 +35,5 @@ Fire Attack
 cd exe/
 ```
 
-Full version including the whole game (RM1 to RM3)<br>
-Only Boss Room includes the Boss fight only
+"Full version" including the whole game (RM1 to RM3)<br>
+"Only Boss Room" includes the Boss fight only
